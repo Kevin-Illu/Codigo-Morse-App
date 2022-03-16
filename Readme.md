@@ -1,6 +1,7 @@
 # Morse App
 
 Esta aplicación traduce español a codigo Morse,
+![screenshot de mi aplicacion](./MorseApp.PNG)
 
 ## Está construida con.
 

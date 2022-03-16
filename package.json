@@ -1,0 +1,23 @@
+{
+  "name": "morseapp",
+  "version": "1.0.0",
+  "description": "Morse App Electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "Js",
+    "css"
+  ],
+  "author": "kevin Illu",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^17.1.0"
+  },
+  "dependencies": {
+    "electron-reload": "^2.0.0-alpha.1"
+  }
+}

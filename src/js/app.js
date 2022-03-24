@@ -52,10 +52,6 @@ function morseToEspañol(letterArr){
     return newText;
 }
 
-function españolToMorse(letterArr){
-
-}
-
 
 
 
